@@ -1,32 +1,3 @@
-/* Travail réalisé sur un MacBook Pro avec MAC OS */
-
-/* Auteur : Arthur Magron
-   Date : 30/11/2023
-
-   compilation avec la commande : gcc -W -Wall -ansi -pedantic <nom du fichier contenant le code> -o <nom de l'exécutable>
-   exécution avec la commande : ./<nom de l'exécutable>
-
-    Ce programme permet d'afficher l'ensemble de mandelbrot autour d'un point particulier.
-    ---------------------------------------------------------------------------
-    On apprend que ""
-    On apprend que ""
-    On apprend que ""
-
-    On constate donc "."
-
-    IMPORTANT :
-
-    Réponses aux questions de l'énoncé :
-
-    "Pas de questions dans l'énoncé"
-*/
-
-/*
-    Estimation de ma note :17,5/20
-
- */
-
-
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
